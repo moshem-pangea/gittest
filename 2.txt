@@ -7,3 +7,5 @@ Rebase, visit our Merging vs Rebasing guide.
 
 Rebase itself has 2 main modes: "manual" and "interactive" mode. 
 We will cover the different Rebase modes in more detail below.
+
+Rebasing is the process of moving or combining a sequence of commits to a new base commit. Rebasing is most useful and easily visualized in the context of a feature branching workflow. The general process can be visualized as the following:
